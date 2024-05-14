@@ -1,5 +1,7 @@
 body {
   background-color: aquamarine;
   color: blueviolet;
+}
+* {
   box-sizing: border-box;
 }
